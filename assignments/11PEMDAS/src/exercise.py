@@ -1,3 +1,6 @@
+from math import sqrt
+
+
 def main():
     #escribe tu código abajo de esta línea
    #Autor: David Cantú
@@ -5,7 +8,7 @@ def main():
     #Fecha: Agosto 8 de 2019
     #Actividad Prioridad de Operaciones Básicas 
 
-from math import sqrt
+import math
 
 oper1 = 2*(3/4) + 4*(2/3) - 3*(1/5) + 5*(1/2)
 print(round(oper1,4))
